@@ -86,7 +86,7 @@ li {
 
 <h1> - The Moon -</h1>
 
-<p> <a href="index.html">Moon</a> </p>
+<p> <a href="index.html">Home</a> </p>
 
 <p> <a href="star.html">Stars</a> </p>
 
